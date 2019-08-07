@@ -1,4 +1,3 @@
-#### 点击[预览](https://practice-cnode.onrender.com) 
 ## 技术栈
 - create-react-app
 - react
@@ -11,7 +10,7 @@
 ## API接口
 这里使用的是 cnodejs 官网给出的数据接口，接口文档地址：https://cnodejs.org/api
 
-## 整体概要
+## 项目概要
 - 环境安装
 	1. `create-react-app my_cnode` 创建项目
 	2. `cd my_cnode` 进入目录
@@ -68,4 +67,6 @@
 		- user.reducers
 
 ## 静态站点部署
-[Render](https://dashboard.render.com/)是一个统一的平台，可以使用免费的SSL，全球CDN，私人网络和Git自动部署来构建和运行您的所有应用和网站。
+1.[Render](https://dashboard.render.com/)是一个统一的平台，可以使用免费的SSL，全球CDN，私人网络和Git自动部署来构建和运行您的所有应用和网站。
+
+2.本项目就是在[Render](https://dashboard.render.com/)部署的，可在此点击[预览](https://practice-cnode.onrender.com)，。
