@@ -69,4 +69,4 @@
 ## 静态站点部署
 1.[Render](https://dashboard.render.com/)是一个统一的平台，可以使用免费的SSL，全球CDN，私人网络和Git自动部署来构建和运行您的所有应用和网站。
 
-2.本项目就是在[Render](https://dashboard.render.com/)部署的，可在此点击[预览](https://practice-cnode.onrender.com)，。
+2.本项目就是在[Render](https://dashboard.render.com/)部署的，可在此点击[预览](https://practice-cnode.onrender.com)。
