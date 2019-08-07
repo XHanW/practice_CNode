@@ -1,4 +1,4 @@
-#### 点击[预览](https://practice-cnode.onrender.com)
+#### 点击[预览](https://practice-cnode.onrender.com) 
 ## 技术栈
 - create-react-app
 - react
@@ -66,3 +66,6 @@
 		- list.reducers
 		- details.reducers
 		- user.reducers
+
+## 静态站点部署
+[Render](https://dashboard.render.com/)是一个统一的平台，可以使用免费的SSL，全球CDN，私人网络和Git自动部署来构建和运行您的所有应用和网站。
